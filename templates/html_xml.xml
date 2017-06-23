@@ -1,0 +1,7 @@
+<templateSet group="html/xml">
+  <template name="_blank" value="target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;" description="Target _blank" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

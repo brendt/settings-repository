@@ -1,0 +1,10 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.2.0/bin/node" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+    <option name="MOVE_NAMESPACE_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+  </component>
+</application>

@@ -1,0 +1,19 @@
+<templateSet group="PHP">
+  <template name="dd" value="dd($VALUE$);$END$" description="dd" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="tesf" value="/**&#10; * @test&#10; */&#10;public function it_$FUNCTION$() {&#10;    $END$&#10;}" description="Test function" toReformat="false" toShortenFQNames="true">
+    <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ddf" value="dd(__FILE__ . ':' . __LINE__);$END$" description="ddf" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,7 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <includes_templates>
+      <template name="PHP File Header.php" reformat="true" live-template-enabled="false" enabled="false" />
+    </includes_templates>
+  </component>
+</application>

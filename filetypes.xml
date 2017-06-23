@@ -1,0 +1,42 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="console" type="PHP" />
+      <mapping pattern="stitcher" type="PHP" />
+      <mapping pattern="chromedriver" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.test" type="PLAIN_TEXT" />
+      <mapping pattern="php-generics-and-why-we-need-them" type="PLAIN_TEXT" />
+      <mapping pattern="ProjectReference-00b313e0dd1819e5fb2dc5a7b032d605" type="PLAIN_TEXT" />
+      <mapping pattern="async_log" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern="__tagIndex" type="PLAIN_TEXT" />
+      <mapping pattern="CollectionRoute" type="PLAIN_TEXT" />
+      <mapping pattern="selenium" type="PLAIN_TEXT" />
+      <mapping pattern=".selenium" type="PLAIN_TEXT" />
+      <mapping pattern="generate_test_db" type="PLAIN_TEXT" />
+      <mapping pattern="varnishadm" type="PLAIN_TEXT" />
+      <mapping ext="category" type="PLAIN_TEXT" />
+      <mapping ext="19" type="PLAIN_TEXT" />
+      <mapping ext="18" type="PLAIN_TEXT" />
+      <mapping ext="17" type="PLAIN_TEXT" />
+      <mapping ext="13" type="PLAIN_TEXT" />
+      <mapping ext="10" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="7" type="PLAIN_TEXT" />
+      <mapping ext="8" type="PLAIN_TEXT" />
+      <mapping ext="crx" type="PLAIN_TEXT" />
+      <mapping ext="9" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
+      <mapping ext="secret" type="PLAIN_TEXT" />
+      <mapping ext="4" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="25" type="PLAIN_TEXT" />
+      <mapping ext="20" type="PLAIN_TEXT" />
+      <mapping ext="11" type="PLAIN_TEXT" />
+      <mapping ext="16" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

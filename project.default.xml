@@ -1,0 +1,42 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DependencyValidationManager">
+        <scope name="Ride" pattern="!files[*]:cache/" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="NamedScopeManager">
+        <order>
+          <scope name="Ride" />
+        </order>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <last-edited>Ride</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+              <order>
+                <scope name="Ride" />
+              </order>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

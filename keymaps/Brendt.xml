@@ -13,6 +13,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
+  <action id="CollapseDocComments">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Diff.ShowDiff" />
@@ -78,12 +81,30 @@
   </action>
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <mouse-shortcut keystroke="shift meta button1" />
+    <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="MoveElementLeft" />
@@ -130,6 +151,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />

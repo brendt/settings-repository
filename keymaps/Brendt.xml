@@ -69,9 +69,6 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="FindWordAtCaret">
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />

@@ -16,4 +16,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="try" value="try {&#10;    $TRY$&#10;} catch ($EXCEPTION$ $e) {&#10;    $CATCH$&#10;}" description="try/catch" toReformat="false" toShortenFQNames="true">
+    <variable name="TRY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXCEPTION" expression="" defaultValue="\Exception" alwaysStopAt="true" />
+    <variable name="CATCH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

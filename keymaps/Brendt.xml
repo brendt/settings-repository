@@ -92,7 +92,7 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="GotoPreviousBookmark">
-    <keyboard-shortcut first-keystroke="meta alt b" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="GotoTest">
@@ -150,7 +150,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="shift meta b" />
+    <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />

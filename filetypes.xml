@@ -8,6 +8,7 @@
       <mapping pattern=".htaccess.test" type="PLAIN_TEXT" />
       <mapping pattern="php-generics-and-why-we-need-them" type="PLAIN_TEXT" />
       <mapping pattern="ProjectReference-00b313e0dd1819e5fb2dc5a7b032d605" type="PLAIN_TEXT" />
+      <mapping pattern=".reservation.dto" type="PLAIN_TEXT" />
       <mapping pattern="async_log" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
@@ -27,9 +28,9 @@
       <mapping ext="7" type="PLAIN_TEXT" />
       <mapping ext="8" type="PLAIN_TEXT" />
       <mapping ext="crx" type="PLAIN_TEXT" />
-      <mapping ext="9" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="secret" type="PLAIN_TEXT" />
+      <mapping ext="9" type="PLAIN_TEXT" />
       <mapping ext="4" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />

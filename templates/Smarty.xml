@@ -31,4 +31,16 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="isGranted" value="{isGrantedVoter permission='$PERMISSION$' context=$CONTEXT$}" description="Is Granted" toReformat="false" toShortenFQNames="true">
+    <variable name="PERMISSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="/isGranted" value="{/isGrantedVoter}" description="Is Granted" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>

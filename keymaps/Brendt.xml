@@ -47,6 +47,12 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift meta alt left" />
   </action>
+  <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="meta enter" />
@@ -104,6 +110,9 @@
     <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="JumpToColorsAndFonts">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="OpenFile">

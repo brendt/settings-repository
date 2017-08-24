@@ -1,15 +1,24 @@
-<scheme name="BrenDt - light" version="142" parent_scheme="Default">
+<scheme name="BrenDt - light (presenter)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.8" />
+  <metaInfo>
+    <property name="created">2017-08-24T10:08:52</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-08-24T10:25:46</property>
+    <property name="originalScheme">BrenDt - light copy</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.9" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monaco" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="CONSOLE_LINE_SPACING" value="1.8" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -34,17 +43,17 @@
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="cccccc" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
-    <option name="METHOD_SEPARATORS_COLOR" value="cccccc" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-    <option name="RIGHT_MARGIN_COLOR" value="cccccc" />
-    <option name="SELECTED_INDENT_GUIDE" value="cccccc" />
-    <option name="SELECTED_TEARLINE_COLOR" value="787878" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
+    <option name="SELECTED_INDENT_GUIDE" value="b7b7b7" />
+    <option name="SELECTED_TEARLINE_COLOR" value="32424a" />
     <option name="SELECTION_BACKGROUND" value="e1e1e1" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="TEARLINE_COLOR" value="303134" />
+    <option name="TEARLINE_COLOR" value="32424a" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>

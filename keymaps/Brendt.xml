@@ -55,12 +55,17 @@
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
-  <action id="EditorSplitLine" />
+  <action id="EditorSplitLine">
+    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="ctrl s" />
+  </action>
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="EditorSwapSelectionBoundaries">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl s" />
   </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />

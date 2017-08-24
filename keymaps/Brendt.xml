@@ -30,15 +30,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
   <action id="EditorCodeBlockEnd" />
-  <action id="EditorCodeBlockEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
-    <keyboard-shortcut first-keystroke="shift meta alt right" />
-  </action>
+  <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
-  <action id="EditorCodeBlockStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
-    <keyboard-shortcut first-keystroke="shift meta alt left" />
-  </action>
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -46,8 +40,14 @@
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt right" />
+  </action>
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt left" />
   </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="ctrl page_down" />

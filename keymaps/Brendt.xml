@@ -47,19 +47,15 @@
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="EditorNextWordInDifferentHumpsMode">
-    <keyboard-shortcut first-keystroke="meta alt right" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="EditorNextWordInDifferentHumpsModeWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta alt right" />
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
   </action>
   <action id="EditorPreviousWordInDifferentHumpsMode">
-    <keyboard-shortcut first-keystroke="meta alt left" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta alt left" />
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="EditorScrollBottom">

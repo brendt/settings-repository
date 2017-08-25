@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="ActivateVersionControlToolWindow" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
@@ -24,6 +25,9 @@
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
@@ -38,6 +42,9 @@
   <action id="EditorCompleteStatement" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="meta alt right" />

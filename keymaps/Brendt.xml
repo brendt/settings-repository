@@ -24,9 +24,6 @@
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorChooseLookupItemCompleteStatement" />
-  <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
-  </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -40,15 +37,19 @@
   </action>
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="meta alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="EditorNextWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift meta alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
   </action>
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="meta alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift meta alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
@@ -57,10 +58,10 @@
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="EditorSelectLine">
-    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorSplitLine">
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="ctrl s" />
@@ -75,14 +76,15 @@
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl s" />
   </action>
   <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="alt down" />
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="meta alt space" />
   </action>
@@ -137,6 +139,8 @@
   <action id="Laravel.ExtractPartialView" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
   <action id="NextEditorTab">
     <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
   </action>
@@ -178,12 +182,6 @@
   </action>
   <action id="SwitchDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />

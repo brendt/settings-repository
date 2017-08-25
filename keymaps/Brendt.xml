@@ -19,13 +19,17 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
+  <action id="Diff.SelectedChange" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
@@ -101,10 +105,12 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
@@ -154,6 +160,10 @@
     <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
   </action>
   <action id="QuickActionPopup" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Refresh" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
@@ -182,9 +192,6 @@
   </action>
   <action id="SwitchDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="meta alt b" />

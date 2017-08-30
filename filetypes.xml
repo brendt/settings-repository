@@ -10,6 +10,7 @@
       <mapping pattern="ProjectReference-00b313e0dd1819e5fb2dc5a7b032d605" type="PLAIN_TEXT" />
       <mapping pattern=".reservation.dto" type="PLAIN_TEXT" />
       <mapping pattern="async_log" type="PLAIN_TEXT" />
+      <mapping pattern="CONTRIBUTING" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
       <mapping pattern="__tagIndex" type="PLAIN_TEXT" />

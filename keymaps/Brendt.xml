@@ -92,6 +92,7 @@
   </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
+  <action id="EmojiAndSymbols" />
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="meta alt space" />
   </action>
@@ -164,7 +165,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="shift alt space" />
+    <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
   <action id="PreviousEditorTab">
     <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />

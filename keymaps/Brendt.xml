@@ -35,16 +35,27 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
-  <action id="EditorCodeBlockEnd" />
-  <action id="EditorCodeBlockEndWithSelection" />
-  <action id="EditorCodeBlockStart" />
-  <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="EditorCodeBlockEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt right" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="EditorCodeBlockStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt left" />
+  </action>
   <action id="EditorCompleteStatement" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -185,6 +196,10 @@
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift alt a" />
     <keyboard-shortcut first-keystroke="shift meta a" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />

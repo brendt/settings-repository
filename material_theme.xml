@@ -2,5 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="80cbc4" />
     <option name="wallpaper" value="$USER_HOME$/Pictures/scotland_wallpaper/steve-taylor-110040.jpg" />
+    <option name="useMaterialIcons" value="false" />
   </component>
 </application>

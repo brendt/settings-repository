@@ -1297,6 +1297,9 @@
     <option name="SCOPE_KEY_Non-Project Files">
       <value />
     </option>
+    <option name="SCOPE_KEY_PHP Boilerplate">
+      <value />
+    </option>
     <option name="SCOPE_KEY_Problems">
       <value />
     </option>

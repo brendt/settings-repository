@@ -115,6 +115,9 @@
     <keyboard-shortcut first-keystroke="meta r" />
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
@@ -140,8 +143,14 @@
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="GotoTest">
@@ -173,8 +182,11 @@
     <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
   </action>
   <action id="NextOccurence" />
-  <action id="NextSplitter">
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
+  <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
   </action>
   <action id="OpenFile">
@@ -183,8 +195,11 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
-  <action id="PrevSplitter">
+  <action id="PrevParameter">
+    <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="shift alt tab" />
+  </action>
+  <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
   </action>
   <action id="PreviousEditorTab">
@@ -192,6 +207,7 @@
   </action>
   <action id="PreviousOccurence" />
   <action id="QuickActionPopup" />
+  <action id="RecentChangedFiles" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
@@ -244,6 +260,17 @@
     <keyboard-shortcut first-keystroke="shift meta alt j" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="ViewSource" />
   <action id="tasks.switch" />
   <action id="tasks.switch.toolbar" />

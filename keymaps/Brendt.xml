@@ -54,6 +54,10 @@
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
@@ -144,13 +148,13 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift meta e" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="GotoTest">
@@ -230,6 +234,10 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="meta f1" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="ShowUsages" />
   <action id="SmartTypeCompletion" />
   <action id="SplitHorizontally">

@@ -6,7 +6,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click' or '⌥⌘⏎'</ShortCut>
           <Description>Declaration</Description>
-          <Count>53</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">

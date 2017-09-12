@@ -6,7 +6,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click' or '⌥⌘⏎'</ShortCut>
           <Description>Declaration</Description>
-          <Count>57</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -30,7 +30,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

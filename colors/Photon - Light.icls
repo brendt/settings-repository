@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-09-12T14:42:17</property>
+    <property name="modified">2017-09-12T15:09:02</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -196,6 +196,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="555555" />
+      </value>
+    </option>
     <option name="DEFAULT_METADATA">
       <value />
     </option>
@@ -204,11 +209,13 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="555555" />
+        <option name="FOREGROUND" value="545454" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="8e00" />
+      </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -354,11 +361,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_VAR">
-      <value>
-        <option name="FOREGROUND" value="555555" />
-      </value>
-    </option>
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="3db1" />

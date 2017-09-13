@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-09-13T13:01:02</property>
+    <property name="modified">2017-09-13T13:54:28</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -178,7 +178,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="555555" />
+        <option name="FOREGROUND" value="6c00ab" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -215,7 +215,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="8e00" />
+        <option name="FOREGROUND" value="8c00" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -253,7 +253,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="555555" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -266,7 +266,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="545454" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">

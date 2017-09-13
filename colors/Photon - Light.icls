@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-09-13T11:59:23</property>
+    <property name="modified">2017-09-13T13:01:02</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -40,9 +40,25 @@
     <option name="WHITESPACES" value="" />
   </colors>
   <attributes>
+    <option name="APACHE_CONFIG.ARG_LEXEM">
+      <value>
+        <option name="FOREGROUND" value="a200ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="f5f5f5" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="880051" />
+      </value>
+    </option>
+    <option name="BLADE_TEXT_BLOCK_BOUNDARY">
+      <value>
+        <option name="FOREGROUND" value="a200ff" />
       </value>
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
@@ -60,9 +76,38 @@
     <option name="BREADCRUMBS_INACTIVE">
       <value />
     </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="c000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="c000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="c000" />
+      </value>
+    </option>
+    <option name="CSS.OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="c000" />
+      </value>
+    </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="6700" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="eb00" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -212,7 +257,9 @@
       </value>
     </option>
     <option name="DEFAULT_METADATA">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="6700" />
+      </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value />
@@ -266,7 +313,9 @@
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="cc6666" />
+      </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
@@ -282,11 +331,13 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
+        <option name="EFFECT_COLOR" value="eeeeee" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
+        <option name="FOREGROUND" value="cc6666" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -298,12 +349,35 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
+        <option name="EFFECT_COLOR" value="dddddd" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ccffcc" />
+      </value>
+    </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="555555" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.NEGATION">
+      <value>
+        <option name="FOREGROUND" value="eb0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="888888" />
+      </value>
+    </option>
+    <option name="IGNORE.VALUE">
+      <value>
+        <option name="FOREGROUND" value="c000" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -320,6 +394,7 @@
         <option name="FOREGROUND" value="ff00e0" />
       </value>
     </option>
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="a200ff" />
@@ -348,6 +423,27 @@
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value />
+    </option>
+    <option name="MARKDOWN_BLOCK_QUOTE">
+      <value>
+        <option name="BACKGROUND" value="f5f5f5" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="ff00e0" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="c50082" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="4b0028" />
+      </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
@@ -388,6 +484,11 @@
         <option name="BACKGROUND" value="f5f5f5" />
       </value>
     </option>
+    <option name="SMARTY_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="555555" />
+      </value>
+    </option>
     <option name="SMARTY_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="555555" />
@@ -399,7 +500,9 @@
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="3db1" />
+      </value>
     </option>
     <option name="TEXT">
       <value>
@@ -413,7 +516,30 @@
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="6700" />
+      </value>
+    </option>
+    <option name="TWIG_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="555555" />
+      </value>
+    </option>
+    <option name="TWIG_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a200ff" />
+      </value>
+    </option>
+    <option name="TWIG_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="c000" />
+      </value>
+    </option>
+    <option name="TWIG_STRING">
+      <value>
+        <option name="FOREGROUND" value="217a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="TYPO">
       <value>
@@ -460,6 +586,40 @@
       <value>
         <option name="FOREGROUND" value="c000" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_DSTRING">
+      <value>
+        <option name="FOREGROUND" value="c000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="a200ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_LIST">
+      <value>
+        <option name="FOREGROUND" value="c000" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_STRING">
+      <value>
+        <option name="FOREGROUND" value="c000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="YAML_SIGN">
+      <value>
+        <option name="FOREGROUND" value="545454" />
+      </value>
+    </option>
+    <option name="YAML_TEXT">
+      <value>
+        <option name="FOREGROUND" value="c000" />
       </value>
     </option>
   </attributes>

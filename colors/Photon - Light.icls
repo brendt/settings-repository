@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-09-12T15:09:02</property>
+    <property name="modified">2017-09-13T09:21:41</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -170,7 +170,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="a200ff" />
+        <option name="FOREGROUND" value="555555" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">

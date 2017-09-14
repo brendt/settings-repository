@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-09-13T13:54:28</property>
+    <property name="modified">2017-09-14T08:31:56</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -506,7 +506,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="888888" />
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>

@@ -153,6 +153,7 @@
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="shift meta alt enter" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta b" />
@@ -166,7 +167,9 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
-  <action id="GotoSuperMethod" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl meta enter" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>

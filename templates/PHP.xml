@@ -5,7 +5,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="tesf" value="/** @test */&#10;public function $FUNCTION$() {&#10;    $END$&#10;}" description="Test function" toReformat="false" toShortenFQNames="true">
+  <template name="tesf" value="/** @test */&#10;public function $FUNCTION$() &#10;{&#10;    $END$&#10;}" description="Test function" toReformat="false" toShortenFQNames="true">
     <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />

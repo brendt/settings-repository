@@ -15,6 +15,10 @@
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssColorPreviewInGutter" value="false" />
     <option name="showCssInlineColorPreview" value="true" />

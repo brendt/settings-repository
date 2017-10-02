@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-09-15T09:17:51</property>
+    <property name="modified">2017-10-02T13:33:54</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -141,9 +141,7 @@
       <value />
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
@@ -279,9 +277,7 @@
       </value>
     </option>
     <option name="DEFAULT_STRING">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_TAG">
       <value />
@@ -464,7 +460,6 @@
     <option name="PHP_STRING">
       <value>
         <option name="FOREGROUND" value="217a" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />

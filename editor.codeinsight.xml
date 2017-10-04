@@ -10,6 +10,6 @@
     <option name="COLLAPSE_CLASSES" value="true" />
   </component>
   <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_XML_TAGS" value="true" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
   </component>
 </application>

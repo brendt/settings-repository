@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../database/migrations/2017_10_04_154846_create_articleParts_table.php - [preo.be-new]'" />
-    <option name="defaultScopeName" value="File '.../database/migrations/2017_10_04_154846_create_articleParts_table.php - [preo.be-new]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2017_10_04_154846_create_articleParts_table.php - [preo.be-new]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>

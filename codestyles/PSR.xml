@@ -1,4 +1,5 @@
 <code_scheme name="PSR">
+  <option name="RIGHT_MARGIN" value="80" />
   <JSON>
     <option name="SPACE_BEFORE_COLON" value="true" />
   </JSON>

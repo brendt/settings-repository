@@ -163,13 +163,13 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="shift ctrl meta enter" />
@@ -260,7 +260,7 @@
   <action id="ShowContent" />
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="meta f1" />
-    <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="ShowUsages" />
   <action id="SmartTypeCompletion" />

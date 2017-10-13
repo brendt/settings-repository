@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-10-11T11:40:14</property>
+    <property name="modified">2017-10-13T14:09:21</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -380,6 +380,12 @@
     <option name="JSON.STRING">
       <value>
         <option name="FOREGROUND" value="c000" />
+      </value>
+    </option>
+    <option name="JSON.VALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="888888" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_FULL_COVERAGE">

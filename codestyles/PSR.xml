@@ -1,5 +1,7 @@
 <code_scheme name="PSR">
   <option name="RIGHT_MARGIN" value="80" />
+  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_TEXT_WRAP" value="0" />
   <JSON>
     <option name="SPACE_BEFORE_COLON" value="true" />
   </JSON>

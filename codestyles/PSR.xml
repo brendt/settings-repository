@@ -2,6 +2,7 @@
   <option name="RIGHT_MARGIN" value="80" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_TEXT_WRAP" value="0" />
+  <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,h1,h2,h3,h4,h5,h6,p,li" />
   <JSON>
     <option name="SPACE_BEFORE_COLON" value="true" />
   </JSON>
@@ -21,6 +22,9 @@
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />

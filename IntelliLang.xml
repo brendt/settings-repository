@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="HTML" injector-id="php">
+      <display-name>&quot;&lt;html&gt;&quot;</display-name>
+      <place disabled="true"><![CDATA[and(not(phpLiteralExpression().withSuperParent(2, phpFunctionReference().withName(or(string().startsWith("strip_tags"), string().startsWith("preg_"))))), phpLiteralMatchesBrics(".*\\</?<anyname>( .*)?(/)?>.*"))]]></place>
+    </injection>
+  </component>
+</application>

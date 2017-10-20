@@ -3,6 +3,9 @@
     <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
     <option name="COLLAPSE_FUNCTION_BODY" value="true" />

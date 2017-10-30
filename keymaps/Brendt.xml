@@ -176,6 +176,9 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="shift ctrl meta enter" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
@@ -245,6 +248,7 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Replace" />
+  <action id="ReplaceInPath" />
   <action id="Rerun" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift alt a" />

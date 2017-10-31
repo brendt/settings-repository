@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".global-gitignore" type="Git file" />
+      <mapping pattern="SpineException" type="PLAIN_TEXT" />
       <mapping ext="yml]" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

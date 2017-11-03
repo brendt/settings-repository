@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-10-25T11:58:51</property>
+    <property name="modified">2017-11-03T10:26:05</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -378,10 +378,13 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="a200ff" />

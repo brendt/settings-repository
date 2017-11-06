@@ -4,6 +4,7 @@
       <mapping pattern=".global-gitignore" type="Git file" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="SpineException" type="PLAIN_TEXT" />
+      <mapping ext="phhp" type="PLAIN_TEXT" />
       <mapping ext="yml]" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

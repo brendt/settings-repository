@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-11-03T10:26:05</property>
+    <property name="modified">2017-11-06T15:57:00</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -242,7 +242,9 @@
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="5fe7" />
+      </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
@@ -265,7 +267,9 @@
       </value>
     </option>
     <option name="DEFAULT_STRING">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="217a" />
+      </value>
     </option>
     <option name="DEFAULT_TAG">
       <value />
@@ -275,7 +279,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="888888" />
+        <option name="FOREGROUND" value="3db1" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -378,11 +382,16 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="a200ff" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff00e0" />
+      </value>
+    </option>
     <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.PROPERTY_KEY">

@@ -69,7 +69,9 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
-  <action id="EditorMatchBrace" />
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -90,10 +92,10 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
-  <action id="EditorScrollBottom">
+  <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
-  <action id="EditorScrollTop">
+  <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="EditorSelectLine">
@@ -292,9 +294,6 @@
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
   <action id="TypeHierarchy" />
-  <action id="TypeHierarchy.Class">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
-  </action>
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="meta u" />

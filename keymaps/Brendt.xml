@@ -69,9 +69,7 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
-  <action id="EditorMatchBrace">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
-  </action>
+  <action id="EditorMatchBrace" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -293,7 +291,9 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
-  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="meta u" />

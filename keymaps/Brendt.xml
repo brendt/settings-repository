@@ -60,15 +60,16 @@
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
-  <action id="EditorMatchBrace">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
-  </action>
+  <action id="EditorMatchBrace" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -181,6 +182,7 @@
   </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift alt t" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -238,6 +240,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
+  <action id="ProjectViewChangeView" />
   <action id="QuickActionPopup" />
   <action id="RecentChangedFiles" />
   <action id="RecentFiles">
@@ -268,6 +271,9 @@
     <keyboard-shortcut first-keystroke="meta f1" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ShowProcessWindow">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="ShowUsages" />
   <action id="SmartTypeCompletion" />
   <action id="SplitHorizontally">
@@ -286,6 +292,9 @@
     <keyboard-shortcut first-keystroke="meta alt b" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.Class">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="meta u" />
@@ -301,6 +310,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
     <keyboard-shortcut first-keystroke="ctrl c" />

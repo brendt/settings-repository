@@ -1,0 +1,9 @@
+<templateSet group="custom">
+  <template name=":nl" value="nl: $NL$&#10;en: $OTHER$&#10;pt: $OTHER$&#10;pl: $OTHER$&#10;$END$" description="NL" toReformat="false" toShortenFQNames="true">
+    <variable name="NL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OTHER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

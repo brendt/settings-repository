@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-11-09T14:13:37</property>
+    <property name="modified">2017-11-10T09:24:30</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -13,6 +13,7 @@
   <colors>
     <option name="CARET_COLOR" value="888888" />
     <option name="CARET_ROW_COLOR" value="eeeeee" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2a2a2f" />
     <option name="DOCUMENTATION_COLOR" value="" />
     <option name="ERROR_HINT" value="" />
     <option name="GUTTER_BACKGROUND" value="dddddd" />
@@ -77,27 +78,47 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="84ff" />
+        <option name="FOREGROUND" value="66baff" />
+      </value>
+    </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="9e9ea0" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c000" />
+        <option name="FOREGROUND" value="66c358" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="39bd39" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a200ff" />
+        <option name="FOREGROUND" value="ff00ba" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="7d9496" />
+      </value>
+    </option>
+    <option name="CONSOLE_RANGE_TO_EXECUTE">
+      <value>
+        <option name="BACKGROUND" value="e5fafc" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bfc45d" />
+        <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
     <option name="CSS.COLOR">

@@ -26,40 +26,40 @@
       <display-name>&lt;&lt;&lt; REGEXP</display-name>
       <place disabled="true"><![CDATA[phpLiteralExpression("REGEXP")]]></place>
     </injection>
-    <injection language="JSON" injector-id="sql" pattern="(?i)json(b)?">
+    <injection language="JSON" injector-id="sql">
       <display-name>(?i)json(b)?</display-name>
     </injection>
-    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regclass" fragment="SQL_TABLE_REFERENCE" hosts="PostgreSQL">
+    <injection language="PostgreSQL" injector-id="sql">
       <display-name>(?i)regclass</display-name>
     </injection>
-    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regconfig" fragment="SQL_REFERENCE" hosts="PostgreSQL">
+    <injection language="PostgreSQL" injector-id="sql">
       <display-name>(?i)regconfig</display-name>
     </injection>
-    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regdictionary" fragment="SQL_REFERENCE" hosts="PostgreSQL">
+    <injection language="PostgreSQL" injector-id="sql">
       <display-name>(?i)regdictionary</display-name>
     </injection>
-    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regnamespace" fragment="SQL_SCHEMA_REFERENCE" hosts="PostgreSQL">
+    <injection language="PostgreSQL" injector-id="sql">
       <display-name>(?i)regnamespace</display-name>
     </injection>
-    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regoper" fragment="SQL_OPERATOR_REFERENCE" hosts="PostgreSQL">
+    <injection language="PostgreSQL" injector-id="sql">
       <display-name>(?i)regoper</display-name>
     </injection>
-    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regoperator" fragment="SQL_OPERATOR_SIGNATURE" hosts="PostgreSQL">
+    <injection language="PostgreSQL" injector-id="sql">
       <display-name>(?i)regoperator</display-name>
     </injection>
-    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regproc" fragment="SQL_FUNCTION_REFERENCE" hosts="PostgreSQL">
+    <injection language="PostgreSQL" injector-id="sql">
       <display-name>(?i)regproc</display-name>
     </injection>
-    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regprocedure" fragment="SQL_FUNCTION_SIGNATURE" hosts="PostgreSQL">
+    <injection language="PostgreSQL" injector-id="sql">
       <display-name>(?i)regprocedure</display-name>
     </injection>
-    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regrole" fragment="SQL_ROLE_REFERENCE" hosts="PostgreSQL">
+    <injection language="PostgreSQL" injector-id="sql">
       <display-name>(?i)regrole</display-name>
     </injection>
-    <injection language="PostgreSQL" injector-id="sql" pattern="(?i)regtype" fragment="SQL_TYPE_ELEMENT" hosts="PostgreSQL">
+    <injection language="PostgreSQL" injector-id="sql">
       <display-name>(?i)regtype</display-name>
     </injection>
-    <injection language="XML" injector-id="sql" pattern="(?i)xml(type)?">
+    <injection language="XML" injector-id="sql">
       <display-name>(?i)xml(type)?</display-name>
     </injection>
     <injection language="JavaScript" injector-id="xml">

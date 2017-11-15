@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-11-10T09:24:30</property>
+    <property name="modified">2017-11-15T14:43:51</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -489,6 +489,26 @@
       <value>
         <option name="BACKGROUND" value="f5f5f5" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="ededed" />
+        <option name="BACKGROUND" value="aaaaaa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_FENCE">
+      <value>
+        <option name="FOREGROUND" value="eeeeee" />
+        <option name="BACKGROUND" value="aaaaaa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="333333" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_1">

@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-11-15T15:55:33</property>
+    <property name="modified">2017-11-17T12:02:45</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -13,7 +13,7 @@
   <colors>
     <option name="CARET_COLOR" value="888888" />
     <option name="CARET_ROW_COLOR" value="eeeeee" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2a2a2f" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="33333b" />
     <option name="DOCUMENTATION_COLOR" value="" />
     <option name="ERROR_HINT" value="" />
     <option name="GUTTER_BACKGROUND" value="dddddd" />
@@ -114,6 +114,11 @@
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value>
         <option name="BACKGROUND" value="e5fafc" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f0f0f0" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">

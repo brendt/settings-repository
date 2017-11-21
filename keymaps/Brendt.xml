@@ -122,6 +122,9 @@
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="EmojiAndSymbols" />
@@ -287,6 +290,10 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl f12" />

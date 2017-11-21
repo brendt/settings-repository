@@ -7,6 +7,7 @@
       <mapping pattern="SpineException" type="PLAIN_TEXT" />
       <mapping ext="phhp" type="PLAIN_TEXT" />
       <mapping ext="yml]" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

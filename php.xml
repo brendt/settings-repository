@@ -1,5 +1,4 @@
 <application>
-  <component name="PhpAutoImport" auto_import_from_global_scope="true" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/bin/php" id="edc2d562-bc45-4ce8-a318-43362e844d45" name="PHP 5.6" debugger_id="php.debugger.XDebug" />

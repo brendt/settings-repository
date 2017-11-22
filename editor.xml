@@ -26,8 +26,11 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />

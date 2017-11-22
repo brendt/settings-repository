@@ -15,6 +15,9 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta alt space" />
   </action>

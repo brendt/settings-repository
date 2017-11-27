@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".global-gitignore" type="Git file" />
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
+      <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
       <mapping pattern="HasLocaleWithFallback" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="SpineException" type="PLAIN_TEXT" />

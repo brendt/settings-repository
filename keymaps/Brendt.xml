@@ -9,6 +9,10 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />

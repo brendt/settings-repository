@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".global-gitignore" type="Git file" />
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
+      <mapping pattern="accountEditForm" type="PLAIN_TEXT" />
       <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
       <mapping pattern="HasLocaleWithFallback" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />

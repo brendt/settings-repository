@@ -25,6 +25,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta alt space" />
   </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
   <action id="CollapseDocComments">
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
@@ -135,6 +138,9 @@
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="EmojiAndSymbols" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="meta alt space" />
   </action>

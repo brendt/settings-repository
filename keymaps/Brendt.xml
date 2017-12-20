@@ -4,11 +4,9 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta back_slash" />
-  </action>
-  <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="ActivateStructureToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta alt i" />
@@ -283,6 +281,11 @@
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="meta f1" />
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta up" />
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="ShowProcessWindow">
     <keyboard-shortcut first-keystroke="ctrl b" />

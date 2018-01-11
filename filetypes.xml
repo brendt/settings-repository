@@ -2,14 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
+      <mapping pattern="SpineException" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="MarkPaymentAsSucceededphp" type="PLAIN_TEXT" />
       <mapping pattern="HasLocaleWithFallback" type="PLAIN_TEXT" />
       <mapping pattern="accountEditForm" type="PLAIN_TEXT" />
-      <mapping pattern="SpineException" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="phhp" type="PLAIN_TEXT" />
       <mapping ext="kml" type="PLAIN_TEXT" />

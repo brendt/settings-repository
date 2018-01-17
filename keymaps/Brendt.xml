@@ -264,6 +264,7 @@
   </action>
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="RunInspection" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift alt a" />
     <keyboard-shortcut first-keystroke="shift meta a" />
@@ -306,6 +307,9 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
+  <action id="ToggleDockMode">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="meta f8" />

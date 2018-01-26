@@ -1,12 +1,21 @@
 <scheme name="Bad" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-01-25T15:58:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-01-26T09:35:21</property>
+    <property name="modified">2018-01-26T10:22:31</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.8" />
+  <option name="LINE_SPACING" value="1.1" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Courier New" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
   <attributes>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>

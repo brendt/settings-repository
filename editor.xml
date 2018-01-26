@@ -1,8 +1,5 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Ubuntu Mono" />
-    <option name="LINE_SPACING" value="1.8" />
     <option name="SECONDARY_FONT_FAMILY" value="Monaco" />
   </component>
   <component name="EditorSettings">
@@ -22,7 +19,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_INTENTION_BULB" value="false" />

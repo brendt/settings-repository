@@ -10,6 +10,7 @@
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
       <mapping pattern="ide" type="PLAIN_TEXT" />
       <mapping pattern="HasLocaleWithFallback" type="PLAIN_TEXT" />
+      <mapping pattern="payload" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="SpineException" type="PLAIN_TEXT" />

@@ -17,6 +17,7 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="CheckinProject" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -37,6 +38,11 @@
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
@@ -174,7 +180,7 @@
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
-    <keyboard-shortcut first-keystroke="shift meta alt enter" />
+    <keyboard-shortcut first-keystroke="meta alt j" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta b" />
@@ -294,11 +300,12 @@
   <action id="ShowUsages" />
   <action id="SmartTypeCompletion" />
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="meta alt j" />
+    <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>

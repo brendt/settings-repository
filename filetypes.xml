@@ -6,6 +6,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="accountEditForm" type="PLAIN_TEXT" />
+      <mapping pattern="radius-calculations" type="PLAIN_TEXT" />
       <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
       <mapping pattern="ide" type="PLAIN_TEXT" />

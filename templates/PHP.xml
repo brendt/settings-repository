@@ -36,10 +36,4 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="__con" value="public function __construct($ARGS$)&#10;{$END$&#10;}" description="Constructor" toReformat="false" toShortenFQNames="true">
-    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
 </templateSet>

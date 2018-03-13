@@ -125,9 +125,6 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
-  <action id="EditorSwapSelectionBoundaries">
-    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="ctrl s" />
-  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
@@ -156,6 +153,14 @@
     <keyboard-shortcut first-keystroke="meta r" />
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="meta alt d" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+    <keyboard-shortcut first-keystroke="shift meta alt d" />
+  </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
@@ -173,14 +178,13 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
-    <keyboard-shortcut first-keystroke="meta alt j" />
+    <keyboard-shortcut first-keystroke="shift meta alt enter" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta b" />
@@ -195,7 +199,7 @@
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="GotoSuperMethod">
-    <keyboard-shortcut first-keystroke="shift ctrl meta enter" />
+    <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
   <action id="GotoSymbol" />
   <action id="GotoTest">
@@ -243,6 +247,15 @@
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
+  <action id="PhpGenerateGetters">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="PhpGenerateGettersAndSetters">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="PhpGenerateSetters">
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="PrevParameter">
     <keyboard-shortcut first-keystroke="shift tab" />

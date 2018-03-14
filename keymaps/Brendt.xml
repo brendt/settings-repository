@@ -183,13 +183,13 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
-    <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta b" />

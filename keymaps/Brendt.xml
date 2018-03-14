@@ -18,6 +18,10 @@
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="CheckinProject" />
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>

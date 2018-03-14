@@ -17,6 +17,7 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
   <action id="ClassNameCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt space" />
@@ -314,7 +315,9 @@
   <action id="ShowProcessWindow">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
-  <action id="ShowUsages" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
   <action id="SmartTypeCompletion" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="meta alt k" />

@@ -5,6 +5,7 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
+        <entry key="Blade" value="true" />
         <entry key="CSS" value="true" />
         <entry key="HTML" value="true" />
         <entry key="JSON" value="true" />

@@ -174,7 +174,7 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="meta p" />
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
@@ -186,7 +186,7 @@
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
@@ -280,7 +280,7 @@
   <action id="QuickActionPopup" />
   <action id="RecentChangedFiles" />
   <action id="RecentFiles">
-    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="Refresh" />
   <action id="ReopenClosedTab">

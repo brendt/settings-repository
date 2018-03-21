@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2018-03-15T10:28:04</property>
+    <property name="modified">2018-03-21T11:19:25</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -60,8 +60,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="eeeeee" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="BACKGROUND" value="e6f3ff" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">

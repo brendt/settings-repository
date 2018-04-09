@@ -8,7 +8,7 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
-    <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="editor.distraction.free.mode" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="0" />
   </component>
 </application>

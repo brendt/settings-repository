@@ -173,6 +173,9 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>

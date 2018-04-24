@@ -26,6 +26,10 @@
       <display-name>&lt;&lt;&lt; REGEXP</display-name>
       <place disabled="true"><![CDATA[phpLiteralExpression("REGEXP")]]></place>
     </injection>
+    <injection language="XML" injector-id="php">
+      <display-name>&lt;&lt;&lt; XML</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("XML")]]></place>
+    </injection>
     <injection language="JSON" injector-id="sql">
       <display-name>(?i)json(b)?</display-name>
     </injection>

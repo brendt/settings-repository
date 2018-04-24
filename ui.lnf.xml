@@ -1,11 +1,13 @@
 <application>
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="EDITOR_TAB_PLACEMENT" value="3" />
     <option name="FONT_FACE" value="Dialog" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_SIZE" value="14" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />

@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2018-04-24T15:27:12</property>
+    <property name="modified">2018-04-27T10:21:03</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -16,7 +16,7 @@
   <colors>
     <option name="CARET_COLOR" value="888888" />
     <option name="CARET_ROW_COLOR" value="eeeeee" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="33333b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="fefefe" />
     <option name="DOCUMENTATION_COLOR" value="" />
     <option name="ERROR_HINT" value="" />
     <option name="GUTTER_BACKGROUND" value="dddddd" />

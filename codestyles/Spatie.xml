@@ -12,7 +12,6 @@
     <option name="SPACE_BEFORE_COLON" value="true" />
   </JSON>
   <PHPCodeStyleSettings>
-    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />

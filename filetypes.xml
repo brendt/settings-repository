@@ -7,6 +7,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="accountEditForm" type="PLAIN_TEXT" />
       <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
+      <mapping pattern="cookieConsent" type="PLAIN_TEXT" />
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
       <mapping pattern="privacy" type="PLAIN_TEXT" />
       <mapping pattern="CreateRegistrationCateringOptionTest" type="PLAIN_TEXT" />

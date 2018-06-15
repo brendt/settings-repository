@@ -2,7 +2,6 @@
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
-    <option name="EDITOR_TAB_PLACEMENT" value="3" />
     <option name="FONT_FACE" value="Dialog" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_SIZE" value="14" />
@@ -14,7 +13,6 @@
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
-    <option name="SHOW_STATUS_BAR" value="false" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="SORT_BOOKMARKS" value="true" />

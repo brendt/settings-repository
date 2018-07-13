@@ -3,5 +3,6 @@
     <ignoreAction name="PHP/Generate PHPDoc for function" />
     <ignoreAction name="PHP/Add @property" />
     <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="PHP/Simplify FQN" />
   </component>
 </application>

@@ -6,6 +6,7 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body" />
     <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,h1,h2,h3,h4,h5,h6,p,li" />
   </HTMLCodeStyleSettings>
   <JSON>

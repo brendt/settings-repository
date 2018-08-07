@@ -70,6 +70,14 @@
     <injection language="XML" injector-id="sql">
       <display-name>(?i)xml(type)?</display-name>
     </injection>
+    <injection language="JavaScript" injector-id="twig">
+      <display-name>block javascript</display-name>
+      <place disabled="true"><![CDATA[twigBlock("javascript")]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="twig">
+      <display-name>custom statement javascript</display-name>
+      <place disabled="true"><![CDATA[twigCustomStatement("script")]]></place>
+    </injection>
     <injection language="JavaScript" injector-id="xml">
       <display-name>*/@href</display-name>
       <value-pattern>^javascript:(.+)</value-pattern>

@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="MarkPaymentAsSucceededphp" type="PLAIN_TEXT" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="contentBlockMenu" type="PLAIN_TEXT" />
-      <mapping pattern="smartassist-journal" type="PLAIN_TEXT" />
+      <mapping pattern="exactOnline" type="PLAIN_TEXT" />
       <mapping pattern="smartassist" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="accountEditForm" type="PLAIN_TEXT" />
+      <mapping pattern="singleLocaleTemplateForm" type="PLAIN_TEXT" />
       <mapping pattern="radius-calculations" type="PLAIN_TEXT" />
       <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
       <mapping pattern="cookieConsent" type="PLAIN_TEXT" />
-      <mapping pattern="exactOnline" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="unitPrice" type="PLAIN_TEXT" />
       <mapping pattern="ide" type="PLAIN_TEXT" />
       <mapping pattern="26" type="PLAIN_TEXT" />
@@ -21,22 +22,22 @@
       <mapping pattern="HasLocaleWithFallback" type="PLAIN_TEXT" />
       <mapping pattern="payload" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
-      <mapping pattern="singleLocaleTemplateForm" type="PLAIN_TEXT" />
+      <mapping pattern="accountEditForm" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="SpineException" type="PLAIN_TEXT" />
-      <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
+      <mapping pattern="smartassist-journal" type="PLAIN_TEXT" />
       <mapping pattern="new-in-php-73" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="phhp" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
-      <mapping ext="kml" type="PLAIN_TEXT" />
-      <mapping ext="yml]" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="o" type="PLAIN_TEXT" />
+      <mapping ext="phhp" type="PLAIN_TEXT" />
       <mapping ext="ttwig" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="yml]" type="PLAIN_TEXT" />
+      <mapping ext="o" type="PLAIN_TEXT" />
+      <mapping ext="kml" type="PLAIN_TEXT" />
       <mapping pattern=".global-gitignore" type="Git file" />
     </extensionMap>
   </component>

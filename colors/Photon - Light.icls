@@ -4,7 +4,7 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2018-09-14T09:23:46</property>
+    <property name="modified">2018-10-11T09:38:57</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -512,7 +512,7 @@
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
-        <option name="FOREGROUND" value="8e00" />
+        <option name="FOREGROUND" value="8c00e0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

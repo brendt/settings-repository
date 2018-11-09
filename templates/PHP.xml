@@ -67,7 +67,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="//" value="// input: $input$&#10;// output: $output$" toReformat="false" toShortenFQNames="true">
+  <template name="//" value="// input: $input$&#10;// output: $output$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="input" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="output" expression="groovyScript(&quot;def input = 'oo $bar, $bar, ?int $a'; def matcher = input =~ /\$[\w]+/; def String output = ''; int count = 0; while (matcher.find()) { count++; }; matcher.reset(); int i = 0; while (matcher.find()) { output += matcher.group(); i++; if (i &lt; count) { output += ', '; } }; output;&quot;) " defaultValue="" alwaysStopAt="true" />
     <context>

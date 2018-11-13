@@ -62,7 +62,7 @@
     <variable name="NAME" expression="enum(&quot;new&quot;, &quot;create&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN_TYPE" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
-    <variable name="VARS" expression="groovyScript(&quot;input&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>

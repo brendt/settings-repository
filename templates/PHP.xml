@@ -74,4 +74,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="slf" value="$class$$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

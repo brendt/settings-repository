@@ -231,14 +231,14 @@
   <action id="Laravel.ExtractPartialView" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
-  <action id="MoveLineDown" />
-  <action id="MoveLineUp" />
-  <action id="MoveStatementDown">
+  <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
-  <action id="MoveStatementUp">
+  <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextEditorTab">
     <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
   </action>

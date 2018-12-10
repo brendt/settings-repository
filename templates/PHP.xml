@@ -80,4 +80,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="tsetup" value="protected function setUp()&#10;{&#10;    parent::setUp();&#10;    &#10;    $END$&#10;}" description="Test setup" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

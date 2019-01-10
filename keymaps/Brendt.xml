@@ -19,10 +19,6 @@
   </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
-  <action id="ClassNameCompletion">
-    <keyboard-shortcut first-keystroke="ctrl alt space" />
-    <keyboard-shortcut first-keystroke="shift meta i" />
-  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -195,6 +191,7 @@
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="shift meta alt enter" />
     <keyboard-shortcut first-keystroke="meta alt enter" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta b" />

@@ -18,6 +18,10 @@
       <display-name>&lt;&lt;&lt; CSS</display-name>
       <place disabled="true"><![CDATA[phpLiteralExpression("CSS")]]></place>
     </injection>
+    <injection language="DQL" injector-id="php">
+      <display-name>&lt;&lt;&lt; DQL</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("DQL")]]></place>
+    </injection>
     <injection language="HTML" injector-id="php">
       <display-name>&lt;&lt;&lt; HTML</display-name>
       <place disabled="true"><![CDATA[phpLiteralExpression("HTML")]]></place>

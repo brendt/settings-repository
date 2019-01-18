@@ -208,7 +208,9 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
-  <action id="GotoSuperMethod" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="GotoSymbol" />
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift alt t" />
@@ -292,6 +294,7 @@
   <action id="Replace" />
   <action id="Rerun" />
   <action id="RunInspection" />
+  <action id="SavaAs" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift alt a" />
     <keyboard-shortcut first-keystroke="shift meta a" />

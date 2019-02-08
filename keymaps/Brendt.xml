@@ -288,11 +288,18 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="RunInspection" />
   <action id="SavaAs" />
   <action id="SelectAllOccurrences">

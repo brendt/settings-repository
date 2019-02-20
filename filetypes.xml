@@ -3,7 +3,7 @@
     <extensionMap>
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="26" type="PLAIN_TEXT" />
-      <mapping pattern="CreateRegistrationCateringOptionTest" type="PLAIN_TEXT" />
+      <mapping pattern="facilities" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="filterLink" type="PLAIN_TEXT" />
       <mapping pattern="singleLocaleTemplateForm" type="PLAIN_TEXT" />
@@ -36,6 +36,7 @@
       <mapping pattern="new-in-php-73" type="PLAIN_TEXT" />
       <mapping pattern="2018-10-20-array-merge-vs+" type="PLAIN_TEXT" />
       <mapping pattern="HasLocaleWithFallback" type="PLAIN_TEXT" />
+      <mapping pattern="CreateRegistrationCateringOptionTest" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext=" open source" type="PLAIN_TEXT" />
       <mapping ext="phhp" type="PLAIN_TEXT" />

@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env.example" type="Ini" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="radius-calculations" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="cookieConsent" type="PLAIN_TEXT" />
       <mapping pattern="ide" type="PLAIN_TEXT" />
       <mapping pattern="smartassist" type="PLAIN_TEXT" />
@@ -21,10 +21,10 @@
       <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
       <mapping pattern="CreateRegistrationCateringOptionTest" type="PLAIN_TEXT" />
-      <mapping pattern="contentBlockMenu" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="R" type="PLAIN_TEXT" />
       <mapping pattern="accountEditForm" type="PLAIN_TEXT" />
+      <mapping pattern="contentBlockMenu" type="PLAIN_TEXT" />
       <mapping pattern="MarkPaymentAsSucceededphp" type="PLAIN_TEXT" />
       <mapping pattern="smartassist-journal" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
@@ -40,15 +40,16 @@
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
       <mapping ext="phhp" type="PLAIN_TEXT" />
-      <mapping ext="engine" type="PLAIN_TEXT" />
       <mapping ext=" project setup" type="PLAIN_TEXT" />
       <mapping ext=" open source" type="PLAIN_TEXT" />
       <mapping ext="ttwig" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="engine" type="PLAIN_TEXT" />
       <mapping ext="yml]" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="kml" type="PLAIN_TEXT" />
       <mapping ext="icls" type="XML" />
+      <removed_mapping pattern=".env.example" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".global-gitignore" type="Git file" />
     </extensionMap>
   </component>

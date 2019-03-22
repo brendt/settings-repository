@@ -19,7 +19,6 @@
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="FIELDS_DEFAULT_VISIBILITY" value="protected" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
@@ -28,7 +27,6 @@
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
   <yaml>
-    <option name="INDENT_SEQUENCE_VALUE" value="true" />
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
   </yaml>
   <codeStyleSettings language="Blade">

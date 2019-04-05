@@ -360,6 +360,9 @@
     <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="Tool_External Tools_phpstan">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>

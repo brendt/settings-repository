@@ -82,6 +82,10 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="EditorMatchBrace" />
@@ -362,6 +366,12 @@
   </action>
   <action id="Tool_External Tools_phpstan">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="Tool_External Tools_phpstan directory">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="Tool_External Tools_phpstan file">
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl f12" />

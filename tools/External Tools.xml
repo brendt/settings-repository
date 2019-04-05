@@ -1,8 +1,15 @@
 <toolSet name="External Tools">
-  <tool name="phpstan" description="phpstan" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="phpstan directory" description="phpstan directory" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/local/Cellar/php/7.3.3/bin/php" />
       <option name="PARAMETERS" value="-d memory_limit=-1 vendor/bin/phpstan analyse $FileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="phpstan file" description="phpstan file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/Cellar/php/7.3.3/bin/php" />
+      <option name="PARAMETERS" value="-d memory_limit=-1 vendor/bin/phpstan analyse $FileDir$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

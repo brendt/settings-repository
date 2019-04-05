@@ -3,53 +3,56 @@
     <extensionMap>
       <mapping pattern=".env.example" type="Ini" />
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping pattern="facilities" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern="filterLink" type="PLAIN_TEXT" />
-      <mapping pattern="singleLocaleTemplateForm" type="PLAIN_TEXT" />
-      <mapping pattern="privacy" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
-      <mapping pattern="FuzzeFilter" type="PLAIN_TEXT" />
-      <mapping pattern="activeLink" type="PLAIN_TEXT" />
-      <mapping pattern="fix" type="PLAIN_TEXT" />
-      <mapping pattern="26" type="PLAIN_TEXT" />
-      <mapping pattern="unitPrice" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="radius-calculations" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
-      <mapping pattern="smartassist" type="PLAIN_TEXT" />
       <mapping pattern="cookieConsent" type="PLAIN_TEXT" />
-      <mapping pattern="accountEditForm" type="PLAIN_TEXT" />
-      <mapping pattern="smartassist-journal" type="PLAIN_TEXT" />
-      <mapping pattern="exactOnline" type="PLAIN_TEXT" />
       <mapping pattern="ide" type="PLAIN_TEXT" />
-      <mapping pattern="R" type="PLAIN_TEXT" />
-      <mapping pattern="SpineException" type="PLAIN_TEXT" />
-      <mapping pattern="MarkPaymentAsSucceededphp" type="PLAIN_TEXT" />
-      <mapping pattern="payload" type="PLAIN_TEXT" />
-      <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
-      <mapping pattern="InvoiceableFilter" type="PLAIN_TEXT" />
-      <mapping pattern="contentBlockMenu" type="PLAIN_TEXT" />
-      <mapping pattern="25" type="PLAIN_TEXT" />
-      <mapping pattern="output" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="new-in-php-73" type="PLAIN_TEXT" />
-      <mapping pattern="2018-10-20-array-merge-vs+" type="PLAIN_TEXT" />
+      <mapping pattern="smartassist" type="PLAIN_TEXT" />
       <mapping pattern="HasLocaleWithFallback" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="singleLocaleTemplateForm" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="filterLink" type="PLAIN_TEXT" />
+      <mapping pattern="26" type="PLAIN_TEXT" />
+      <mapping pattern="25" type="PLAIN_TEXT" />
+      <mapping pattern="new-in-php-73" type="PLAIN_TEXT" />
+      <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
+      <mapping pattern="SpineException" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
+      <mapping pattern="exactOnline" type="PLAIN_TEXT" />
       <mapping pattern="CreateRegistrationCateringOptionTest" type="PLAIN_TEXT" />
+      <mapping pattern="contentBlockMenu" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="R" type="PLAIN_TEXT" />
+      <mapping pattern="accountEditForm" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="MarkPaymentAsSucceededphp" type="PLAIN_TEXT" />
+      <mapping pattern="smartassist-journal" type="PLAIN_TEXT" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="payload" type="PLAIN_TEXT" />
+      <mapping pattern="facilities" type="PLAIN_TEXT" />
+      <mapping pattern="activeLink" type="PLAIN_TEXT" />
+      <mapping pattern="2018-10-20-array-merge-vs+" type="PLAIN_TEXT" />
+      <mapping pattern="unitPrice" type="PLAIN_TEXT" />
+      <mapping pattern="FuzzeFilter" type="PLAIN_TEXT" />
+      <mapping pattern="privacy" type="PLAIN_TEXT" />
+      <mapping pattern="fix" type="PLAIN_TEXT" />
+      <mapping pattern="InvoiceableFilter" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext=" open source" type="PLAIN_TEXT" />
+      <mapping ext="blade" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="phhp" type="PLAIN_TEXT" />
       <mapping ext="engine" type="PLAIN_TEXT" />
-      <mapping ext="blade" type="PLAIN_TEXT" />
-      <mapping ext="kml" type="PLAIN_TEXT" />
       <mapping ext=" project setup" type="PLAIN_TEXT" />
-      <mapping ext="yml]" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="o" type="PLAIN_TEXT" />
+      <mapping ext=" open source" type="PLAIN_TEXT" />
       <mapping ext="ttwig" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="yml]" type="PLAIN_TEXT" />
+      <mapping ext="o" type="PLAIN_TEXT" />
+      <mapping ext="kml" type="PLAIN_TEXT" />
       <mapping ext="icls" type="XML" />
+      <mapping pattern="*.neon.dist" type="YAML" />
+      <mapping ext="neon" type="YAML" />
       <removed_mapping pattern=".env.example" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".global-gitignore" type="Git file" />
     </extensionMap>

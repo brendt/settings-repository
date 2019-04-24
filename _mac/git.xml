@@ -1,5 +1,5 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="git" />
+    <option name="myPathToGit" value="/usr/local/bin/git" />
   </component>
 </application>

@@ -333,9 +333,13 @@
   <action id="ShowProcessWindow">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="ShowReformatFileDialog" />
   <action id="ShowUmlDiagramPopup" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
   </action>
   <action id="SmartTypeCompletion" />
   <action id="SplitHorizontally">

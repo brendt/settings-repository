@@ -7,25 +7,21 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="edc2d562-bc45-4ce8-a318-43362e844d45" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php71/7.1.10_21/bin/php" id="f1100b9c-dbf1-414c-8520-59a3d16c1030" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php/7.3.3/bin/php" id="6492bb4b-6faf-4d99-9093-993c92312f06" name="PHP 7.3" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/opt/php72-xdebug/xdebug.so" />
+      <interpreter id="edc2d562-bc45-4ce8-a318-43362e844d45" name="PHP 5.6" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="f1100b9c-dbf1-414c-8520-59a3d16c1030" name="PHP 7.1" home="/usr/local/Cellar/php71/7.1.10_21/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="6492bb4b-6faf-4d99-9093-993c92312f06" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.5/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/opt/php72-xdebug/xdebug.so" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.3/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.3/bin/php" path_separator=":" version="7.3.3">
-          <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/php-memory-limits.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.5/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.5/bin/php" path_separator=":" version="7.3.5">
+          <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-blackfire.ini, /usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.3/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.5/share/php/pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.7.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -36,6 +32,7 @@
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
             <extension name="bcmath" />
+            <extension name="blackfire" />
             <extension name="bz2" />
             <extension name="calendar" />
             <extension name="ctype" />
@@ -87,7 +84,6 @@
             <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />

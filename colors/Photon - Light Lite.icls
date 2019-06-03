@@ -4,7 +4,7 @@
     <property name="created">2019-05-31T09:42:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-03T09:28:14</property>
+    <property name="modified">2019-06-03T09:51:40</property>
     <property name="originalScheme">Photon - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -342,6 +342,19 @@
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
         <option name="FOREGROUND" value="8e00" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_FENCE">
+      <value>
+        <option name="FOREGROUND" value="424242" />
+        <option name="BACKGROUND" value="dddddd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN">
+      <value>
+        <option name="FOREGROUND" value="424242" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

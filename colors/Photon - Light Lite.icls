@@ -4,7 +4,7 @@
     <property name="created">2019-05-31T09:42:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-03T09:14:04</property>
+    <property name="modified">2019-06-03T09:28:14</property>
     <property name="originalScheme">Photon - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -292,6 +292,34 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value />
+    </option>
+    <option name="JSON.BRACES">
+      <value>
+        <option name="FOREGROUND" value="84ff" />
+      </value>
+    </option>
+    <option name="JSON.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="88ff" />
+      </value>
+    </option>
+    <option name="JSON.COLON">
+      <value>
+        <option name="FOREGROUND" value="84ff" />
+      </value>
+    </option>
+    <option name="JSON.COMMA">
+      <value>
+        <option name="FOREGROUND" value="84ff" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value />
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="6700" />
+      </value>
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>

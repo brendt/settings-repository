@@ -4,7 +4,7 @@
     <property name="created">2019-05-31T09:42:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-03T09:51:40</property>
+    <property name="modified">2019-06-04T09:13:36</property>
     <property name="originalScheme">Photon - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -295,22 +295,22 @@
     </option>
     <option name="JSON.BRACES">
       <value>
-        <option name="FOREGROUND" value="84ff" />
+        <option name="FOREGROUND" value="6700" />
       </value>
     </option>
     <option name="JSON.BRACKETS">
       <value>
-        <option name="FOREGROUND" value="88ff" />
+        <option name="FOREGROUND" value="6700" />
       </value>
     </option>
     <option name="JSON.COLON">
       <value>
-        <option name="FOREGROUND" value="84ff" />
+        <option name="FOREGROUND" value="8e00" />
       </value>
     </option>
     <option name="JSON.COMMA">
       <value>
-        <option name="FOREGROUND" value="84ff" />
+        <option name="FOREGROUND" value="8e00" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
@@ -318,7 +318,7 @@
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="6700" />
+        <option name="FOREGROUND" value="88ff" />
       </value>
     </option>
     <option name="LINE_FULL_COVERAGE">
@@ -456,6 +456,11 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value />
+    </option>
+    <option name="YAML_SIGN">
+      <value>
+        <option name="FOREGROUND" value="8e00" />
+      </value>
     </option>
   </attributes>
 </scheme>

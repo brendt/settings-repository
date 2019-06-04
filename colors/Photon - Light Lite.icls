@@ -4,7 +4,7 @@
     <property name="created">2019-05-31T09:42:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-04T09:13:36</property>
+    <property name="modified">2019-06-04T12:07:38</property>
     <property name="originalScheme">Photon - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -371,7 +371,10 @@
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="777777" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value />

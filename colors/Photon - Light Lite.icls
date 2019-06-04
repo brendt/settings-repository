@@ -4,7 +4,7 @@
     <property name="created">2019-05-31T09:42:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-04T12:07:38</property>
+    <property name="modified">2019-06-04T14:01:50</property>
     <property name="originalScheme">Photon - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -412,7 +412,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f2ca00" />
+        <option name="BACKGROUND" value="f2ca00" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -428,7 +428,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f2ca00" />
+        <option name="BACKGROUND" value="f2ca00" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -454,7 +454,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_COLOR" value="f2ca00" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">

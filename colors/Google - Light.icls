@@ -4,7 +4,7 @@
     <property name="created">2019-06-04T15:06:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-05T13:20:38</property>
+    <property name="modified">2019-06-05T15:14:02</property>
     <property name="originalScheme">Photon - Light Lite</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -42,6 +42,9 @@
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
+      <value />
+    </option>
+    <option name="BLADE_TEXT_BLOCK_BOUNDARY">
       <value />
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">

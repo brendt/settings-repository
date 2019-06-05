@@ -4,7 +4,7 @@
     <property name="created">2019-06-04T15:06:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-05T13:05:14</property>
+    <property name="modified">2019-06-05T13:20:38</property>
     <property name="originalScheme">Photon - Light Lite</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -82,6 +82,11 @@
         <option name="FOREGROUND" value="4285f4" />
       </value>
     </option>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e84135" />
+      </value>
+    </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="4adc6e" />
@@ -100,6 +105,17 @@
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e84135" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4285f4" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="34a853" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
@@ -383,6 +399,26 @@
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value />
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e84135" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="34a853" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4285f4" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fcbc05" />
+      </value>
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
       <value>

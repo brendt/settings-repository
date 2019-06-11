@@ -4,7 +4,7 @@
     <property name="created">2019-06-06T14:35:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-07T10:59:22</property>
+    <property name="modified">2019-06-11T14:18:07</property>
     <property name="originalScheme">Google - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -31,12 +31,12 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="f0f0f0" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
-    <option name="SELECTED_TEARLINE_COLOR" value="" />
+    <option name="SELECTED_TEARLINE_COLOR" value="0" />
     <option name="SELECTION_BACKGROUND" value="dddddd" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-    <option name="TEARLINE_COLOR" value="" />
+    <option name="TEARLINE_COLOR" value="aaaaaa" />
     <option name="VISUAL_INDENT_GUIDE" value="f0f0f0" />
     <option name="WHITESPACES" value="" />
   </colors>

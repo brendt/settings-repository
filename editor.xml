@@ -27,6 +27,7 @@
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="1" />
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />

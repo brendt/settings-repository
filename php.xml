@@ -10,6 +10,7 @@
       <interpreter id="edc2d562-bc45-4ce8-a318-43362e844d45" name="PHP 5.6" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="f1100b9c-dbf1-414c-8520-59a3d16c1030" name="PHP 7.1" home="/usr/local/Cellar/php71/7.1.10_21/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="6492bb4b-6faf-4d99-9093-993c92312f06" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.5/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/opt/php72-xdebug/xdebug.so" />
+      <interpreter id="dd8b22b9-acb6-4c6b-a06b-59da4149313e" name="PHP 7.4 DEV" home="$USER_HOME$/dev/php/build/php-74/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -94,8 +95,38 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
+      <interpreter name="PHP 7.4 DEV">
+        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/dev/php/build/php-74/bin/php-cgi" php_cli="$USER_HOME$/dev/php/build/php-74/bin/php" path_separator=":" version="7.4.0-dev">
+          <additional_php_ini />
+          <configuration_file />
+          <configuration_options>
+            <configuration_option name="include_path" value=".:" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="ctype" />
+            <extension name="date" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="json" />
+            <extension name="pcre" />
+            <extension name="pdo_sqlite" />
+            <extension name="posix" />
+            <extension name="session" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
       <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="5.6.30">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.1.23">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>
@@ -117,7 +148,6 @@
             <extension name="date" />
             <extension name="dba" />
             <extension name="dom" />
-            <extension name="ereg" />
             <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
@@ -129,7 +159,6 @@
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mysql" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />

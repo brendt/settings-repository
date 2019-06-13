@@ -132,6 +132,7 @@
     <injection language="RegExp" injector-id="sql">
       <display-name>MySQL RegExp</display-name>
       <place disabled="true"><![CDATA[sqlElement().forDialects("MySQL").binaryExpressionArgument(1, sqlBinaryExpression().operation(leafTokens("regexp").or("not", "regexp").or("rlike").or("not", "rlike")))]]></place>
+      <place><![CDATA[sqlElement().forDialects("MySQL").functionArgument(1, sqlFunctionCall().name("regexp_instr", "regexp_like", "regexp_replace", "regexp_substr").params(sqlExpressions().count(2, 6)))]]></place>
     </injection>
     <injection language="XML" injector-id="sql">
       <display-name>MySQL XML</display-name>
@@ -214,6 +215,10 @@
       <prefix>dummy_selector {</prefix>
       <suffix>}</suffix>
       <place disabled="true"><![CDATA[xmlAttribute().withLocalName(string().equalTo("style")).inside(xmlTag().withNamespace(string().equalTo("http://www.w3.org/1999/xhtml")))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>bar-chart/@options</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("options")).withParent(xmlTag().withLocalName(string().equalTo("bar-chart")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="JavaScript" injector-id="xml">
       <display-name>script</display-name>

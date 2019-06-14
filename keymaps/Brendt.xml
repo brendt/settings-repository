@@ -251,9 +251,7 @@
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="alt tab" />
   </action>
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
-  </action>
+  <action id="NextSplitter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -276,9 +274,7 @@
     <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="shift alt tab" />
   </action>
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
-  </action>
+  <action id="PrevSplitter" />
   <action id="PreviousEditorTab">
     <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
   </action>
@@ -338,12 +334,6 @@
     <keyboard-shortcut first-keystroke="shift meta alt l" />
   </action>
   <action id="SmartTypeCompletion" />
-  <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="meta alt k" />
-  </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="meta k" />
-  </action>
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -380,12 +370,6 @@
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="meta u" />
     <keyboard-shortcut first-keystroke="shift ctrl down" />
-  </action>
-  <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="shift meta j" />
-  </action>
-  <action id="UnsplitAll">
-    <keyboard-shortcut first-keystroke="shift meta alt j" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowMessageHistory">

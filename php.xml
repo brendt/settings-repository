@@ -95,36 +95,6 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="PHP 7.4 DEV">
-        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/dev/php/build/php-74/bin/php-cgi" php_cli="$USER_HOME$/dev/php/build/php-74/bin/php" path_separator=":" version="7.4.0-dev">
-          <additional_php_ini />
-          <configuration_file />
-          <configuration_options>
-            <configuration_option name="include_path" value=".:" />
-          </configuration_options>
-          <debuggers />
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="ctype" />
-            <extension name="date" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="hash" />
-            <extension name="json" />
-            <extension name="pcre" />
-            <extension name="pdo_sqlite" />
-            <extension name="posix" />
-            <extension name="session" />
-            <extension name="sqlite3" />
-            <extension name="standard" />
-            <extension name="tokenizer" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
       <interpreter name="PHP 5.6">
         <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.1.23">
           <additional_php_ini />
@@ -189,6 +159,42 @@
             <extension name="xsl" />
             <extension name="zip" />
             <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 7.4 DEV">
+        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/dev/php/build/php-74/bin/php-cgi" php_cli="$USER_HOME$/dev/php/build/php-74/bin/php" path_separator=":" version="7.4.0alpha1">
+          <additional_php_ini />
+          <configuration_file />
+          <configuration_options>
+            <configuration_option name="include_path" value=".:" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="ctype" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="pcre" />
+            <extension name="pdo_sqlite" />
+            <extension name="posix" />
+            <extension name="session" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
           </loaded_extensions>
         </phpinfo>
       </interpreter>

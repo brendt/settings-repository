@@ -4,7 +4,7 @@
     <property name="created">2019-06-06T14:35:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-11T14:18:07</property>
+    <property name="modified">2019-07-01T14:51:10</property>
     <property name="originalScheme">Google - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -550,7 +550,10 @@
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="34a853" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>

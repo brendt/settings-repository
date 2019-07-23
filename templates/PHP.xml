@@ -90,4 +90,14 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="with" value="public function with$method$($type$$$$property$): $class$&#10;{&#10;    $clone = clone $this;&#10;    &#10;    $clone-&gt;$end$$property$ = $$$property$;&#10;    &#10;    return $clone;    &#10;}" description="with" toReformat="false" toShortenFQNames="true">
+    <variable name="property" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="capitalize(property)" defaultValue="" alwaysStopAt="false" />
+    <variable name="class" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

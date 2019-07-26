@@ -1,0 +1,19 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="prop@userDefined" key=".prop" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="$this-&gt;$EXPR$ = $EXPR$;" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.php">
+        <value>
+          <set>
+            <option value="prop@userDefined" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>

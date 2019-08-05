@@ -100,4 +100,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="rn" value="return null;" description="return null" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

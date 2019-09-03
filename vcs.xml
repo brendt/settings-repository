@@ -1,4 +1,14 @@
 <application>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_WHITESPACES_IN_LST" value="false" />
   </component>

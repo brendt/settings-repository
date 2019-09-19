@@ -52,7 +52,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="CLASS_BRACE_STYLE" value="2" />
-    <option name="METHOD_BRACE_STYLE" value="2" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />

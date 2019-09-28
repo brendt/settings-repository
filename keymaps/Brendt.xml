@@ -334,7 +334,9 @@
     <keyboard-shortcut first-keystroke="shift meta alt l" />
   </action>
   <action id="SmartTypeCompletion" />
-  <action id="SurroundWithLiveTemplate" />
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>

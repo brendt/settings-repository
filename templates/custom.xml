@@ -6,4 +6,19 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="prop" value="&lt;hljs prop&gt;$SELECTION$&lt;/hljs&gt;" description="HLJS prop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="type" value="&lt;hljs type&gt;$SELECTION$&lt;/hljs&gt;" description="HLJS type" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="keyw" value="&lt;hljs keyword&gt;$SELECTION$&lt;/hljs&gt;" description="HLJS keyword" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>

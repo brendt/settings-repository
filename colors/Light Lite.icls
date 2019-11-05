@@ -4,7 +4,7 @@
     <property name="created">2019-06-06T14:35:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-09-19T12:57:05</property>
+    <property name="modified">2019-11-05T16:11:06</property>
     <property name="originalScheme">Google - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -98,6 +98,11 @@
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="34a853" />
+      </value>
+    </option>
+    <option name="CONSOLE_RANGE_TO_EXECUTE">
+      <value>
+        <option name="BACKGROUND" value="f7f5ff" />
       </value>
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">

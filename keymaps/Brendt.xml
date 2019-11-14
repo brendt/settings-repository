@@ -233,6 +233,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
   <action id="Laravel.ExtractPartialView" />
+  <action id="MinimizeCurrentWindow" />
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="f6" />
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveLineDown" />

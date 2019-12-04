@@ -3,5 +3,7 @@
     <ignoreAction name="PHP/Generate PHPDoc for function" />
     <ignoreAction name="PHP/Add @property" />
     <ignoreAction name="PHP/Simplify FQN" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="XML/Remove attribute" />
   </component>
 </application>

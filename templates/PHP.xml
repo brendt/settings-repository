@@ -67,8 +67,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="slf" value="$class$$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="class" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+  <template name="slf" value="self$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>

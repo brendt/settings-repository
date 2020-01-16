@@ -44,6 +44,7 @@
     <option name="COLLAPSE_HERE_DOCS" value="true" />
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FUNCTION_BODY" value="true" />
+    <option name="COLLAPSE_METHOD_BODY" value="true" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />

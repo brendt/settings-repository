@@ -46,10 +46,6 @@
       <display-name>&lt;&lt;&lt; REGEXP</display-name>
       <place disabled="true"><![CDATA[phpLiteralExpression("REGEXP")]]></place>
     </injection>
-    <injection language="SQL" injector-id="php">
-      <display-name>&lt;&lt;&lt; SQL</display-name>
-      <place disabled="true"><![CDATA[phpLiteralExpression("SQL")]]></place>
-    </injection>
     <injection language="XML" injector-id="php">
       <display-name>&lt;&lt;&lt; XML</display-name>
       <place disabled="true"><![CDATA[phpLiteralExpression("XML")]]></place>

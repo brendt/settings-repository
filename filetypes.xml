@@ -45,6 +45,7 @@
       <mapping pattern="CreateRegistrationCateringOptionTest" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="kml" type="PLAIN_TEXT" />
+      <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="taml" type="PLAIN_TEXT" />
       <mapping ext="phhp" type="PLAIN_TEXT" />
       <mapping ext="engine" type="PLAIN_TEXT" />

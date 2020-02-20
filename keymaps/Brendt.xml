@@ -17,6 +17,7 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
@@ -55,15 +56,11 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
-  <action id="EditorCodeBlockEnd">
-    <keyboard-shortcut first-keystroke="meta alt right" />
-  </action>
+  <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection">
     <keyboard-shortcut first-keystroke="shift meta alt right" />
   </action>
-  <action id="EditorCodeBlockStart">
-    <keyboard-shortcut first-keystroke="meta alt left" />
-  </action>
+  <action id="EditorCodeBlockStart" />
   <action id="EditorCodeBlockStartWithSelection">
     <keyboard-shortcut first-keystroke="shift meta alt left" />
   </action>
@@ -173,10 +170,6 @@
   </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta alt g" />
-  </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
-    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="alt right" />

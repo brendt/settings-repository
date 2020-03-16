@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="loader" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_charts_loader.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_charts_loader.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

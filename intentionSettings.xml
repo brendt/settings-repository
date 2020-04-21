@@ -10,5 +10,6 @@
     <ignoreAction name="SQL/Unqualify identifier" />
     <ignoreAction name="SQL/Inject by Type" />
     <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="SQL/Introduce table alias" />
   </component>
 </application>

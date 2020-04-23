@@ -23,4 +23,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="refu" value="$table-&gt;uuid('$MODEL$_uuid');&#10;$table-&gt;foreign('$MODEL$_uuid')-&gt;references('uuid')-&gt;on('$MODEL$s')-&gt;onDelete('cascade');&#10;$END$" description="references uuid" toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

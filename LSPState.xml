@@ -24,7 +24,7 @@
         <entry key="EXECUTE_COMMAND" value="2000" />
         <entry key="FORMATTING" value="2000" />
         <entry key="HOVER" value="2000" />
-        <entry key="INIT" value="240000" />
+        <entry key="INIT" value="10000" />
         <entry key="PREPARE_RENAME" value="2000" />
         <entry key="REFERENCES" value="2000" />
         <entry key="SIGNATURE" value="1000" />

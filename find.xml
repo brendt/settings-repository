@@ -5,5 +5,16 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.inc</mask>
+    <mask>*.php4</mask>
+    <mask>*.php5</mask>
+    <mask>*.module</mask>
+    <mask>*.phtml</mask>
+    <mask>*.hphp</mask>
+    <mask>*.ctp</mask>
+    <mask>*.php</mask>
   </component>
 </application>

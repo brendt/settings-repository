@@ -9,14 +9,15 @@
       <mapping pattern="facilities" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="filterLink" type="PLAIN_TEXT" />
-      <mapping pattern="singleLocaleTemplateForm" type="PLAIN_TEXT" />
+      <mapping pattern="contentBlockMenu" type="PLAIN_TEXT" />
+      <mapping pattern="2020-02-28_14:43:37_357175b5-a146-4435-90a3-2903c68c10e7" type="PLAIN_TEXT" />
       <mapping pattern="privacy" type="PLAIN_TEXT" />
       <mapping pattern="7-event-driven" type="PLAIN_TEXT" />
       <mapping pattern="2020-02-28_14:09:27_907c8bf0-814a-47a0-bcc3-5c1eafa95236" type="PLAIN_TEXT" />
       <mapping pattern="FuzzeFilter" type="PLAIN_TEXT" />
       <mapping pattern="activeLink" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
-      <mapping pattern="26" type="PLAIN_TEXT" />
+      <mapping pattern="InvoiceableFilter" type="PLAIN_TEXT" />
       <mapping pattern="8-domain-exceptions" type="PLAIN_TEXT" />
       <mapping pattern="unitPrice" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
@@ -29,7 +30,6 @@
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
       <mapping pattern="ide" type="PLAIN_TEXT" />
-      <mapping pattern="2020-02-28_14:43:37_357175b5-a146-4435-90a3-2903c68c10e7" type="PLAIN_TEXT" />
       <mapping pattern="R" type="PLAIN_TEXT" />
       <mapping pattern="SpineException" type="PLAIN_TEXT" />
       <mapping pattern="MarkPaymentAsSucceededphp" type="PLAIN_TEXT" />
@@ -38,14 +38,14 @@
       <mapping pattern="B" type="PLAIN_TEXT" />
       <mapping pattern="2020-01-01_00:00:00_f3c25dad-1cc7-4d32-977d-3200215cae56" type="PLAIN_TEXT" />
       <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
-      <mapping pattern="InvoiceableFilter" type="PLAIN_TEXT" />
-      <mapping pattern="contentBlockMenu" type="PLAIN_TEXT" />
+      <mapping pattern="26" type="PLAIN_TEXT" />
       <mapping pattern="25" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="new-in-php-73" type="PLAIN_TEXT" />
       <mapping pattern="2018-10-20-array-merge-vs+" type="PLAIN_TEXT" />
       <mapping pattern="HasLocaleWithFallback" type="PLAIN_TEXT" />
+      <mapping pattern="singleLocaleTemplateForm" type="PLAIN_TEXT" />
       <mapping pattern="CreateRegistrationCateringOptionTest" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />

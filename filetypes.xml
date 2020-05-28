@@ -63,6 +63,7 @@
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext=" open source" type="PLAIN_TEXT" />
+      <mapping ext="prproj" type="PLAIN_TEXT" />
       <mapping ext="ttwig" type="PLAIN_TEXT" />
       <mapping pattern="phpunit.xml.local" type="XML" />
       <mapping ext="icls" type="XML" />

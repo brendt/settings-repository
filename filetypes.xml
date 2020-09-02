@@ -30,6 +30,7 @@
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
       <mapping pattern="ide" type="PLAIN_TEXT" />
+      <mapping pattern="02/md" type="PLAIN_TEXT" />
       <mapping pattern="R" type="PLAIN_TEXT" />
       <mapping pattern="SpineException" type="PLAIN_TEXT" />
       <mapping pattern="MarkPaymentAsSucceededphp" type="PLAIN_TEXT" />

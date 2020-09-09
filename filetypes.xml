@@ -9,6 +9,7 @@
       <mapping pattern="facilities" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="filterLink" type="PLAIN_TEXT" />
+      <mapping pattern="contentBlockMenu" type="PLAIN_TEXT" />
       <mapping pattern="2020-02-28_14:43:37_357175b5-a146-4435-90a3-2903c68c10e7" type="PLAIN_TEXT" />
       <mapping pattern="privacy" type="PLAIN_TEXT" />
       <mapping pattern="7-event-driven" type="PLAIN_TEXT" />
@@ -16,7 +17,6 @@
       <mapping pattern="FuzzeFilter" type="PLAIN_TEXT" />
       <mapping pattern="activeLink" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
-      <mapping pattern="26" type="PLAIN_TEXT" />
       <mapping pattern="8-domain-exceptions" type="PLAIN_TEXT" />
       <mapping pattern="unitPrice" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
@@ -41,7 +41,7 @@
       <mapping pattern="13-in-closing" type="PLAIN_TEXT" />
       <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
       <mapping pattern="InvoiceableFilter" type="PLAIN_TEXT" />
-      <mapping pattern="contentBlockMenu" type="PLAIN_TEXT" />
+      <mapping pattern="26" type="PLAIN_TEXT" />
       <mapping pattern="25" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />

@@ -28,6 +28,7 @@
       <mapping pattern="accountEditForm" type="PLAIN_TEXT" />
       <mapping pattern="smartassist-journal" type="PLAIN_TEXT" />
       <mapping pattern="exactOnline" type="PLAIN_TEXT" />
+      <mapping pattern="03-phps-type-system" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.example" type="PLAIN_TEXT" />
       <mapping pattern="ide" type="PLAIN_TEXT" />
       <mapping pattern="02/md" type="PLAIN_TEXT" />

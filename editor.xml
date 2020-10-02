@@ -4,6 +4,7 @@
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="PARAMETER_INFO_DELAY" value="10" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
@@ -40,6 +41,14 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JSON.composer.package.version.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="composer.package.version.hints" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />

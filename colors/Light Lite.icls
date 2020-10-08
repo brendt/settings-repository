@@ -4,7 +4,7 @@
     <property name="created">2019-06-06T14:35:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-06-24T13:06:44</property>
+    <property name="modified">2020-10-08T13:25:15</property>
     <property name="originalScheme">Google - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -491,6 +491,11 @@
       <value />
     </option>
     <option name="PHP_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="34a853" />
+      </value>
+    </option>
+    <option name="PHP_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="34a853" />
       </value>

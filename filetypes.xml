@@ -58,6 +58,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping ext="ttwig" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="phhp" type="PLAIN_TEXT" />

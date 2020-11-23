@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webmanifest" type="AUTO_DETECTED" />
       <mapping pattern=".env.example" type="Ini" />

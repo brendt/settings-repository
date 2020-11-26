@@ -8,6 +8,7 @@
       <mapping pattern="fix" type="PLAIN_TEXT" />
       <mapping pattern="radius-calculations" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="update-keys" type="PLAIN_TEXT" />
       <mapping pattern="2020-02-28_14:43:37_357175b5-a146-4435-90a3-2903c68c10e7" type="PLAIN_TEXT" />
       <mapping pattern="2020-01-01_00:00:00_f3c25dad-1cc7-4d32-977d-3200215cae56" type="PLAIN_TEXT" />
       <mapping pattern="payload" type="PLAIN_TEXT" />

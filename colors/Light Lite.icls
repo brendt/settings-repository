@@ -4,7 +4,7 @@
     <property name="created">2019-06-06T14:35:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-11-17T13:41:02</property>
+    <property name="modified">2020-11-26T13:09:08</property>
     <property name="originalScheme">Google - Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
@@ -170,7 +170,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="555555" />
+        <option name="FOREGROUND" value="34a853" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -243,6 +243,12 @@
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="555555" />
+      </value>
+    </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="34a853" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">

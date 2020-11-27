@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".env.example" type="Ini" />
       <mapping ext="webmanifest" type="JSON" />
@@ -60,8 +60,8 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="ttwig" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="phhp" type="PLAIN_TEXT" />
       <mapping ext=" open source" type="PLAIN_TEXT" />
       <mapping ext="engine" type="PLAIN_TEXT" />
@@ -75,8 +75,8 @@
       <mapping ext="icls" type="XML" />
       <mapping pattern="*.neon.dist" type="YAML" />
       <mapping ext="neon" type="YAML" />
-      <removed_mapping pattern=".env.example" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="webmanifest" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.example" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".xml.local" approved="true" type="XML" />
       <mapping ext="webmanifest" type="AUTO_DETECTED" />
       <mapping pattern=".global-gitignore" type="Git file" />

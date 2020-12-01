@@ -6,7 +6,7 @@
       <interpreter id="6492bb4b-6faf-4d99-9093-993c92312f06" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.5/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/opt/php72-xdebug/xdebug.so" />
       <interpreter id="dd8b22b9-acb6-4c6b-a06b-59da4149313e" name="PHP 7.4 Test" home="$USER_HOME$/dev/php/build/string-comparison/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="425a6945-24a5-478f-945d-66a428c99ae7" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.11/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/opt/php72-xdebug/xdebug.so" />
-      <interpreter id="5c2ccf42-465a-43ab-a72e-90ace4751840" name="PHP 8 RC 3" home="/usr/local/Cellar/php@8.0/8.0.0/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="5c2ccf42-465a-43ab-a72e-90ace4751840" name="PHP 8" home="/usr/local/Cellar/php@8.0/8.0.0/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -138,7 +138,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.1.33">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.11">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>
@@ -199,7 +199,6 @@
             <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
-            <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
@@ -359,9 +358,9 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="PHP 8 RC 3">
+      <interpreter name="PHP 8">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@8.0/8.0.0/bin/php-cgi" php_cli="/usr/local/Cellar/php@8.0/8.0.0/bin/php" path_separator=":" version="8.0.0-dev">
-          <additional_php_ini>/usr/local/etc/php/8.0/conf.d/ext-opcache.ini, /usr/local/etc/php/8.0/conf.d/jit.ini</additional_php_ini>
+          <additional_php_ini>/usr/local/etc/php/8.0/conf.d/ext-opcache.ini, /usr/local/etc/php/8.0/conf.d/jit.ini, /usr/local/etc/php/8.0/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/local/Cellar/php@8.0/8.0.0/share/php@8.0/pear" />

@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="event_store" type="AUTO_DETECTED" />
       <mapping pattern=".env.example" type="Ini" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern=".php_cs" type="PHP" />

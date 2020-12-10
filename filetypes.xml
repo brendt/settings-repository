@@ -4,6 +4,7 @@
       <mapping pattern="event_store" type="AUTO_DETECTED" />
       <mapping pattern=".env.example" type="Ini" />
       <mapping ext="webmanifest" type="JSON" />
+      <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="B" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />

@@ -248,7 +248,9 @@
     <keyboard-shortcut first-keystroke="alt tab" />
   </action>
   <action id="NextSplitter" />
-  <action id="NextTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
@@ -271,7 +273,9 @@
   <action id="PrevSplitter" />
   <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
-  <action id="PreviousTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
+  </action>
   <action id="ProjectViewChangeView" />
   <action id="QuickActionPopup" />
   <action id="RecentChangedFiles" />
@@ -332,12 +336,6 @@
   </action>
   <action id="SwitchDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="Switcher">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
-    <keyboard-shortcut first-keystroke="shift ctrl tab" />
-    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
-    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
   </action>
   <action id="TemplateProjectProperties">
     <keyboard-shortcut first-keystroke="shift meta comma" />

@@ -73,6 +73,9 @@
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
@@ -170,6 +173,10 @@
   </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="alt right" />

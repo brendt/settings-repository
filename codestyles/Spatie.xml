@@ -18,6 +18,7 @@
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
+    <option name="SPACE_BEFORE_SHORT_CLOSURE_LEFT_PARENTHESIS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />

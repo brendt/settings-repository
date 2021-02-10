@@ -102,4 +102,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="rd" value="rd($VALUE$);$END$" description="rd" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

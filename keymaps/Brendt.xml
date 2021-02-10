@@ -36,6 +36,8 @@
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Debug" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.SelectedChange" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
@@ -72,6 +74,9 @@
   </action>
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
@@ -171,6 +176,10 @@
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -241,9 +250,7 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
-  <action id="NextEditorTab">
-    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
-  </action>
+  <action id="NextEditorTab" />
   <action id="NextOccurence" />
   <action id="NextParameter">
     <keyboard-shortcut first-keystroke="tab" />
@@ -251,6 +258,7 @@
   </action>
   <action id="NextSplitter" />
   <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="OpenFile">
@@ -273,11 +281,10 @@
     <keyboard-shortcut first-keystroke="shift alt tab" />
   </action>
   <action id="PrevSplitter" />
-  <action id="PreviousEditorTab">
-    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
-  </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
   <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="ProjectViewChangeView" />

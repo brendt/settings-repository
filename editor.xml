@@ -10,6 +10,7 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Monaco" />
   </component>

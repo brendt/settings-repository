@@ -1,20 +1,18 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="CartAlreadyCheckedOutphp" type="AUTO_DETECTED" />
-      <mapping pattern="event_store" type="AUTO_DETECTED" />
+      <mapping ext="webmanifest" type="AUTO_DETECTED" />
       <mapping pattern=".env.example" type="Ini" />
-      <mapping ext="webmanifest" type="JSON" />
-      <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="B" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
       <mapping pattern="radius-calculations" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="update-keys" type="PLAIN_TEXT" />
       <mapping pattern="2020-02-28_14:43:37_357175b5-a146-4435-90a3-2903c68c10e7" type="PLAIN_TEXT" />
       <mapping pattern="2020-01-01_00:00:00_f3c25dad-1cc7-4d32-977d-3200215cae56" type="PLAIN_TEXT" />
-      <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="payload" type="PLAIN_TEXT" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
       <mapping pattern="smartassist-journal" type="PLAIN_TEXT" />
@@ -50,8 +48,8 @@
       <mapping pattern="25" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern="CreateRegistrationCateringOptionTest" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="03-phps-type-system" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="nest" type="PLAIN_TEXT" />
       <mapping pattern="MarkPaymentAsSucceededphp" type="PLAIN_TEXT" />

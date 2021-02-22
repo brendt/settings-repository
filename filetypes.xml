@@ -4,6 +4,7 @@
       <mapping pattern="20-partial-event-sourcing" type="AUTO_DETECTED" />
       <mapping ext="webmanifest" type="AUTO_DETECTED" />
       <mapping pattern=".env.example" type="Ini" />
+      <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="B" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
@@ -49,8 +50,8 @@
       <mapping pattern="25" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern="CreateRegistrationCateringOptionTest" type="PLAIN_TEXT" />
-      <mapping pattern="03-phps-type-system" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="03-phps-type-system" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="nest" type="PLAIN_TEXT" />
       <mapping pattern="MarkPaymentAsSucceededphp" type="PLAIN_TEXT" />

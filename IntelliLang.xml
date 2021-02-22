@@ -26,6 +26,10 @@
       <display-name>&quot;SQL select/delete/insert/update/create&quot;</display-name>
       <place disabled="true"><![CDATA[and(not(phpLiteralExpression("DQL")), phpLiteralMatchesBrics(" *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) ~(.*[A-Za-z_][A-Za-z0-9_]*(\\\\|:).*)"))]]></place>
     </injection>
+    <injection language="SQL" injector-id="php">
+      <display-name>&quot;SQL select/delete/insert/update/create&quot;</display-name>
+      <place disabled="true"><![CDATA[and(not(phpLiteralExpression("DQL")), phpLiteralMatchesBrics(" *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE ~(.*[A-Za-z_][A-Za-z0-9_]*(\\\\|:)[A-Za-z_].*) SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) ~(.*[A-Za-z_][A-Za-z0-9_]*(\\\\|:)[A-Za-z_].*)"))]]></place>
+    </injection>
     <injection language="CSS" injector-id="php">
       <display-name>&lt;&lt;&lt; CSS</display-name>
       <place disabled="true"><![CDATA[phpLiteralExpression("CSS")]]></place>
@@ -49,6 +53,18 @@
     <injection language="XML" injector-id="php">
       <display-name>&lt;&lt;&lt; XML</display-name>
       <place disabled="true"><![CDATA[phpLiteralExpression("XML")]]></place>
+    </injection>
+    <injection language="PhpRegExp" injector-id="php">
+      <display-name>PHP RegExp in preg_* functions first argument</display-name>
+      <place disabled="true"><![CDATA[phpFirstArgument(phpWithName(string().oneOf("preg_filter", "preg_grep", "preg_match_all", "preg_match", "preg_replace_callback", "preg_replace", "preg_split")))]]></place>
+    </injection>
+    <injection language="InjectablePHP" injector-id="php">
+      <display-name>PHP in eval</display-name>
+      <place disabled="true"><![CDATA[phpStringLiteralInsideEval()]]></place>
+    </injection>
+    <injection language="InjectablePHP" injector-id="php">
+      <display-name>PHP in heredoc with PHP name</display-name>
+      <place disabled="true"><![CDATA[phpLiteralExpression("PHP")]]></place>
     </injection>
     <injection language="JSON" injector-id="sql" pattern="(?i)json(b)?">
       <display-name>(?i)json(b)?</display-name>

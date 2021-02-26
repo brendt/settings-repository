@@ -1,5 +1,5 @@
 <templateSet group="Laravel migrations">
-  <template name="ref" value="$table-&gt;unsignedInteger('$MODEL$_id');&#10;$table-&gt;foreign('$MODEL$_id')-&gt;references('id')-&gt;on('$MODEL$s')-&gt;onDelete('cascade');&#10;$END$" description="references" toReformat="false" toShortenFQNames="true">
+  <template name="ref" value="$table-&gt;unsignedBigInteger('$MODEL$_id');&#10;$table-&gt;foreign('$MODEL$_id')-&gt;references('id')-&gt;on('$MODEL$s')-&gt;onDelete('cascade');&#10;$END$" description="references" toReformat="false" toShortenFQNames="true">
     <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />

@@ -7,11 +7,11 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP Current">
-        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php@7.4/7.4.15/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php@7.4/7.4.15/bin/php" path_separator=":" version="7.4.15">
-          <additional_php_ini>/opt/homebrew/etc/php/7.4/conf.d/error_log.ini, /opt/homebrew/etc/php/7.4/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
-          <configuration_file>/opt/homebrew/etc/php/7.4/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.0.2_1/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.0.2_1/bin/php" path_separator=":" version="8.0.2">
+          <additional_php_ini>/opt/homebrew/etc/php/8.0/conf.d/error_log.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.0/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/opt/homebrew/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php@7.4/7.4.15/share/php@7.4/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.0.2_1/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -33,6 +33,7 @@
             <extension name="dba" />
             <extension name="dom" />
             <extension name="exif" />
+            <extension name="fiber" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="ftp" />
@@ -61,6 +62,7 @@
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
@@ -75,7 +77,6 @@
             <extension name="tokenizer" />
             <extension name="xml" />
             <extension name="xmlreader" />
-            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zip" />

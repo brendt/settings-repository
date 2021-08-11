@@ -18,6 +18,7 @@
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
+            <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
@@ -56,11 +57,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP Current">
-        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.0.7/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.0.7/bin/php" path_separator=":" version="8.0.7">
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.0.9/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.0.9/bin/php" path_separator=":" version="8.0.9">
           <additional_php_ini>/opt/homebrew/etc/php/8.0/conf.d/error_log.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.0/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/opt/homebrew/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.0.7/share/php/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.0.9/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -82,7 +83,6 @@
             <extension name="dba" />
             <extension name="dom" />
             <extension name="exif" />
-            <extension name="fiber" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="ftp" />

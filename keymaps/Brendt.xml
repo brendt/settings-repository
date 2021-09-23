@@ -228,6 +228,7 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
+  <action id="GotoUrlAction" />
   <action id="Images.ShowThumbnails" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceParameter" />

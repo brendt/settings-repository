@@ -1,4 +1,5 @@
 <code_scheme name="Spatie" version="173">
+  <option name="RIGHT_MARGIN" value="80" />
   <option name="SOFT_MARGINS" value="80" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />

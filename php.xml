@@ -2,13 +2,13 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="f161dcf2-725d-41e6-9407-5f5c385b5c5d" name="PHP Current" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="46fa7c4b-e9bf-40ad-aad4-d95929234181" name="PHP 8.1-dev" home="$USER_HOME$/Dev/php/php-81-readonly-props/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="46fa7c4b-e9bf-40ad-aad4-d95929234181" name="PHP 8.1-dev" home="$USER_HOME$/Dev/php/build/php-81-rc-2/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 8.1-dev">
-        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/Dev/php/php-81-readonly-props/bin/php-cgi" php_cli="$USER_HOME$/Dev/php/php-81-readonly-props/bin/php" path_separator=":" version="8.1.0-dev">
+        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/Dev/php/build/php-81-rc-2/bin/php-cgi" php_cli="$USER_HOME$/Dev/php/build/php-81-rc-2/bin/php" path_separator=":" version="8.1.0RC2">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>

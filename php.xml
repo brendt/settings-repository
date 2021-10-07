@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="f161dcf2-725d-41e6-9407-5f5c385b5c5d" name="PHP Current" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="f161dcf2-725d-41e6-9407-5f5c385b5c5d" name="PHP Current" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="46fa7c4b-e9bf-40ad-aad4-d95929234181" name="PHP 8.1-dev" home="$USER_HOME$/Dev/php/build/php-81-rc-2/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
@@ -57,11 +57,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP Current">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.0.1_1/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.0.1_1/bin/php" path_separator=":" version="8.0.1">
-          <additional_php_ini>/usr/local/etc/php/8.0/conf.d/error_log.ini, /usr/local/etc/php/8.0/conf.d/ext-opcache.ini, /usr/local/etc/php/8.0/conf.d/jit.ini, /usr/local/etc/php/8.0/conf.d/php-memory-limits.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/8.0/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.0.9/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.0.9/bin/php" path_separator=":" version="8.0.9">
+          <additional_php_ini>/opt/homebrew/etc/php/8.0/conf.d/error_log.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.0/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/opt/homebrew/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.0.1_1/share/php/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.0.9/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -74,6 +74,7 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
+            <extension name="ast" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -112,6 +113,7 @@
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />

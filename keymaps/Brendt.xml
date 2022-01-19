@@ -393,6 +393,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="ViewSource" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
   <action id="tasks.switch" />
   <action id="tasks.switch.toolbar" />

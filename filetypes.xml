@@ -40,6 +40,7 @@
       <mapping pattern="MediaSoftDelete" type="PLAIN_TEXT" />
       <mapping pattern="InvoiceableFilter" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="smartassist" type="PLAIN_TEXT" />
       <mapping pattern="CreateRegistrationCateringOptionTest" type="PLAIN_TEXT" />
       <mapping pattern="nest" type="PLAIN_TEXT" />

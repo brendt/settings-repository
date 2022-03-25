@@ -206,10 +206,16 @@
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="GotoNextBookmarkInEditor">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="GotoPreviousBookmarkInEditor">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="GotoPreviousError">

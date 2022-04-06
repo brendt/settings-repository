@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="EDITOR_TAB_PLACEMENT" value="3" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />

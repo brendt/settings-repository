@@ -1,11 +1,18 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-04-06T12:45:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-06T12:49:03</property>
+    <property name="modified">2022-04-07T05:58:59</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.8" />
+  <option name="EDITOR_FONT_SIZE" value="22" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />

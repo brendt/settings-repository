@@ -14,6 +14,7 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

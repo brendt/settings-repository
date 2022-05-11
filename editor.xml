@@ -1,8 +1,4 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
-  </component>
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
     <option name="PARAMETER_INFO_DELAY" value="10" />
@@ -48,10 +44,7 @@
     <option name="lastViewedProviderKeyId" value="composer.package.version.hints" />
   </component>
   <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_HERE_DOCS" value="true" />
     <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
-    <option name="COLLAPSE_METHOD_BODY" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

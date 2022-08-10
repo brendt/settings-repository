@@ -1,5 +1,6 @@
 <application>
   <component name="PresentationAssistant">
     <option name="margin" value="100" />
+    <option name="showActionDescriptions" value="false" />
   </component>
 </application>

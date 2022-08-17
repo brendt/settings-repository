@@ -79,6 +79,7 @@
       <mapping pattern="*.neon.dist" type="YAML" />
       <mapping ext="neon" type="YAML" />
       <removed_mapping ext="webmanifest" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env.example" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".xml.local" approved="true" type="XML" />
       <mapping pattern=".global-gitignore" type="Git file" />

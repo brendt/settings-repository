@@ -11,6 +11,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta alt i" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="ActivateVersionControlToolWindow" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
@@ -19,6 +20,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="ChangesView.SetDefault" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
   <action id="CloseAllEditorsButActive">
